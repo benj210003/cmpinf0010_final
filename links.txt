@@ -1,0 +1,3 @@
+fire_data: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
+smart_trash_data: https://data.wprdc.org/dataset/smart-trash-containers/resource/75b83ac9-8069-4cf1-bcc3-b9e6b04487d9
+  article about smart trash containers: https://triblive.com/local/pittsburgh-allegheny/more-than-1000-smart-trash-cans-placed-throughout-pittsburgh/
