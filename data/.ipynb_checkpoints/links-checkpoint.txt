@@ -2,3 +2,7 @@ fire_data: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/r
 smart_trash_data: https://data.wprdc.org/dataset/smart-trash-containers/resource/75b83ac9-8069-4cf1-bcc3-b9e6b04487d9
   article about smart trash containers: https://triblive.com/local/pittsburgh-allegheny/more-than-1000-smart-trash-cans-placed-throughout-pittsburgh/
 population: https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/a8414ed5-c50f-417e-bb67-82b734660da6
+<<<<<<< HEAD
+=======
+traffic_data: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
+>>>>>>> 0de28afd4542891e4495907ea1e12e4672329eed
